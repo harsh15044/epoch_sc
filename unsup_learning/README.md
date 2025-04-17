@@ -8,13 +8,14 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## Table of Contents
 
 
 - [Running](#running)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
+- [Credits](#credits)
 
 ## Running <a name="running"></a>
 To be able to run this file, you need to have `Python` installed on your system. Along with that, you'll also need to install the `pip-packages` mentioned in `requirements.txt`.
@@ -50,6 +51,9 @@ The functions are pretty self-explanatory.<br>
 ##  Author <a name = "authors"></a>
 
 - [@harsh15044](https://github.com/harsh15044) - Implemented it from scratch as Epoch Spring-camp task.
+
+## Credits <a name = "credits"> </a>
+- Map image used for visualization is sourced from <a href="https://d-maps.com/carte.php?num_car=9041&lang=en" >d-maps.com </a>, used under their free-to-use policy. All rights belong to the original creator.
 
 
 
